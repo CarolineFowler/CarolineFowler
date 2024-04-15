@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CarolineFowler
-- 👀 I’m interested in 
+- 👀 I’m interested in contract work. 
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on a Christian movie review system.
 - 📫 How to reach me LinkedIn or here. It sometimes takes me a while to respond.
